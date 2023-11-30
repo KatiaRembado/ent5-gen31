@@ -1,0 +1,71 @@
+.home__main {
+    display: grid;
+    grid-template-rows: 1fr auto;
+    height: 100vh;
+}
+
+.home__section {
+    text-align: center;
+}
+
+.home__div {
+    background-color: white;
+    height: 100%;
+    padding: 10%;
+    gap: 32px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.home__image {
+    min-width: 100%;
+    height: 90%;
+}
+
+.home__h2 {
+    color: red;
+   
+}
+
+.home__p {
+    font-size: large;
+    font-weight: bold;
+}
+
+.home__form {
+   
+}
+
+.home__input {
+    border-color: black;
+    
+
+}
+
+.home__btn {
+    background-color: red;
+    border-color: black;
+    color: white;
+   
+}
+
+.home__footer {
+    background-color: black;
+    height: 10em;
+}
+
+.home__footer-red {
+    background-color: red;
+    height: 7em;
+}
+
+.home__footer-circle {
+    heig
+    background-color: white;
+
+}
+
+
+@media 
